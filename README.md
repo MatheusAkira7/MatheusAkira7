@@ -17,12 +17,21 @@
   <a href="mailto:Matheus77akiraaso@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="#-versão-em-português">🇵🇹 Português</a> • 
-  <a href="#-versión-en-español">🇪🇸 Español</a> • 
-  <a href="#-english-version">🇬🇧 English</a>
+  <a href="#-versão-em-português">
+    <img src="https://img.shields.io/badge/Português-BR%20%2F%20PT-228B22?style=for-the-badge&logo=brazil&logoColor=white" alt="Português"/>
+  </a>
+  <a href="#-versión-en-español">
+    <img src="https://img.shields.io/badge/Español-ES-AA151B?style=for-the-badge&logo=spain&logoColor=white" alt="Español"/>
+  </a>
+  <a href="#-english-version">
+    <img src="https://img.shields.io/badge/English-EN-00247D?style=for-the-badge&logo=united-kingdom&logoColor=white" alt="English"/>
+  </a>
 </p>
 
 ---
@@ -90,9 +99,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=MatheusAkira7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Matheus's GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAkira7&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAkira7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
