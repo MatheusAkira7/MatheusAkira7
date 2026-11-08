@@ -1,4 +1,10 @@
-<h1 align="center">Matheus Akira Aso 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=70&lines=Matheus+Akira+Aso+%F0%9F%91%8B;Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="30" alt="Animated Logo">
+</p>
 
 <p align="center">
   Estudante de Engenharia de Software na <strong>FIAP</strong> | Em busca de oportunidades de estágio em Desenvolvimento de Software, Engenharia de Dados ou Arquitetura de Sistemas.
@@ -25,18 +31,20 @@
 ## 🇵🇹 Versão em Português
 
 ### 💻 Sobre Mim
-* 🎓 Cursando *Engenharia de Software* na [FIAP](https://www.fiap.com.br/).
-* 🚀 Focado em lógica computacional, desenvolvimento web, edge computing e metodologias ágeis.
+* 🎓 Cursando **Engenharia de Software** na [FIAP](https://www.fiap.com.br/).
+* 🚀 Focado em lógica computacional, desenvolvimento full-stack, cloud computing e arquitetura de sistemas.
 * 💡 Apaixonado por transformar ideias em soluções tecnológicas práticas e de impacto real.
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas (Grade FIAP)
 | Categoria | Tecnologias |
 | :--- | :--- |
-| *Linguagens & Web* | Python, JavaScript (ES6+), HTML5 Semântico, CSS3 |
-| *Sistemas & IoT* | C/C++ (microcontroladores/prototipagem), Arquitetura de Computadores, Edge Computing |
-| *Dados & Banco de Dados* | Modelagem Relacional/Não-Relacional, SQL |
-| *Ferramentas & DevOps* | Git, GitHub, VS Code, Linha de Comando (CLI) |
-| *Metodologias* | Scrum, Kanban, Design Thinking |
+| **Linguagens & Web** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Back-end & APIs** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> |
+| **Front-end & Mobile** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> |
+| **Dados & Bancos de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> |
+| **Cloud, DevOps & Sistemas** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> |
+| **Ferramentas & Qualidade** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/TDD-CC292B?style=flat-square&logo=testing-library&logoColor=white"/> |
+| **Metodologias & Arquitetura** | <img src="https://img.shields.io/badge/Scrum-1E90FF?style=flat-square&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Design%20Thinking-FF6F61?style=flat-square"/> |
 
 ---
 
@@ -44,18 +52,20 @@
 ## 🇪🇸 Versión en Español
 
 ### 💻 Sobre Mí
-* 🎓 Estudiante de *Ingeniería de Software* en la [FIAP](https://www.fiap.com.br/).
-* 🚀 Enfocado en lógica computacional, desarrollo web, edge computing y metodologías ágiles.
+* 🎓 Estudiante de **Ingeniería de Software** en la [FIAP](https://www.fiap.com.br/).
+* 🚀 Enfocado en lógica computacional, desarrollo full-stack, cloud computing y arquitectura de sistemas.
 * 💡 Apasionado por transformar ideas en soluciones tecnológicas prácticas y de impacto real.
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas (Plan de Estudios FIAP)
 | Categoría | Tecnologías |
 | :--- | :--- |
-| *Lenguajes y Web* | Python, JavaScript (ES6+), HTML5 Semántico, CSS3 |
-| *Sistemas e IoT* | C/C++ (microcontroladores/prototipado), Arquitectura de Computadores, Edge Computing |
-| *Datos y Bases de Datos* | Modelado Relacional/No Relacional, SQL |
-| *Herramientas y DevOps* | Git, GitHub, VS Code, Línea de Comandos (CLI) |
-| *Metodologías* | Scrum, Kanban, Design Thinking |
+| **Lenguajes y Web** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Back-end y APIs** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> |
+| **Front-end y Móvil** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> |
+| **Datos y Bases de Datos** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> |
+| **Cloud, DevOps y Sistemas** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> |
+| **Herramientas y Calidad** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/TDD-CC292B?style=flat-square&logo=testing-library&logoColor=white"/> |
+| **Metodologías y Arquitectura** | <img src="https://img.shields.io/badge/Scrum-1E90FF?style=flat-square&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Design%20Thinking-FF6F61?style=flat-square"/> |
 
 ---
 
@@ -63,18 +73,20 @@
 ## 🇬🇧 English Version
 
 ### 💻 About Me
-* 🎓 Pursuing a Bachelor's Degree in *Software Engineering* at [FIAP](https://www.fiap.com.br/).
-* 🚀 Focused on computational logic, web development, edge computing, and agile methodologies.
+* 🎓 Pursuing a Bachelor's Degree in **Software Engineering** at [FIAP](https://www.fiap.com.br/).
+* 🚀 Focused on computational logic, full-stack development, cloud computing, and systems architecture.
 * 💡 Passionate about turning concepts into scalable, real-world technology solutions.
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills (FIAP Curriculum)
 | Category | Technologies |
 | :--- | :--- |
-| *Languages & Web* | Python, JavaScript (ES6+), Semantic HTML5, CSS3 |
-| *Systems & IoT* | C/C++ (microcontrollers/prototyping), Computer Architecture, Edge Computing |
-| *Data & Databases* | Relational/Non-Relational Modeling, SQL Concepts |
-| *Tools & DevOps* | Git, GitHub, VS Code, CLI |
-| *Methodologies* | Scrum, Kanban, Design Thinking |
+| **Languages & Web** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Back-end & APIs** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> |
+| **Front-end & Mobile** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> |
+| **Data & Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> |
+| **Cloud, DevOps & Systems** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> |
+| **Tools & Quality** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/TDD-CC292B?style=flat-square&logo=testing-library&logoColor=white"/> |
+| **Methodologies & Architecture** | <img src="https://img.shields.io/badge/Scrum-1E90FF?style=flat-square&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Design%20Thinking-FF6F61?style=flat-square"/> |
 
 ---
 
