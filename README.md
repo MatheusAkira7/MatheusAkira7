@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software na <strong>FIAP</strong> | Em busca de oportunidades de estágio em Desenvolvimento de Software, Engenharia de Dados ou Arquitetura de Sistemas.
+  Estudante de Engenharia de Software na <strong>FIAP</strong> | Buscando oportunidades de estágio em <strong>Desenvolvimento de Software</strong>, <strong>Engenharia de Dados</strong> ou <strong>Arquitetura de Sistemas</strong>.
 </p>
 
 <p align="center">
@@ -40,11 +40,11 @@
 ## 🇵🇹 Versão em Português
 
 ### 💻 Sobre Mim
-* 🎓 Cursando **Engenharia de Software** na [FIAP](https://www.fiap.com.br/).
-* 🚀 Focado em lógica computacional, desenvolvimento full-stack, cloud computing e arquitetura de sistemas.
-* 💡 Apaixonado por transformar ideias em soluções tecnológicas práticas e de impacto real.
+- 🎓 Cursando **Bacharelado em Engenharia de Software** na [FIAP](https://www.fiap.com.br/).
+- 🚀 Focado em engenharia de software sólida, arquitetura de sistemas escaláveis e desenvolvimento full-stack.
+- 💡 Apaixonado por transformar desafios complexos em soluções tecnológicas eficientes e de alto impacto.
 
-### 🛠️ Tecnologias e Ferramentas (Grade FIAP)
+### 🛠️ Tecnologias e Stack (Base FIAP)
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens & Web** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
@@ -53,7 +53,7 @@
 | **Dados & Bancos de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> |
 | **Cloud, DevOps & Sistemas** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> |
 | **Ferramentas & Qualidade** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/TDD-CC292B?style=flat-square&logo=testing-library&logoColor=white"/> |
-| **Metodologias & Arquitetura** | <img src="https://img.shields.io/badge/Scrum-1E90FF?style=flat-square&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Design%20Thinking-FF6F61?style=flat-square"/> |
+| **Metodologías & Arquitetura** | <img src="https://img.shields.io/badge/Scrum-1E90FF?style=flat-square&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Design%20Thinking-FF6F61?style=flat-square"/> |
 
 ---
 
@@ -61,11 +61,11 @@
 ## 🇪🇸 Versión en Español
 
 ### 💻 Sobre Mí
-* 🎓 Estudiante de **Ingeniería de Software** en la [FIAP](https://www.fiap.com.br/).
-* 🚀 Enfocado en lógica computacional, desarrollo full-stack, cloud computing y arquitectura de sistemas.
-* 💡 Apasionado por transformar ideas en soluciones tecnológicas prácticas y de impacto real.
+- 🎓 Estudiante de **Ingeniería de Software** en [FIAP](https://www.fiap.com.br/).
+- 🚀 Enfocado en ingeniería de software robusta, arquitectura de sistemas escalables y desarrollo full-stack.
+- 💡 Apasionado por transformar problemas complejos en soluciones tecnológicas eficientes y de alto impacto.
 
-### 🛠️ Tecnologías y Herramientas (Plan de Estudios FIAP)
+### 🛠️ Tecnologías y Stack (Plan de Estudios FIAP)
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Lenguajes y Web** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
@@ -82,9 +82,9 @@
 ## 🇬🇧 English Version
 
 ### 💻 About Me
-* 🎓 Pursuing a Bachelor's Degree in **Software Engineering** at [FIAP](https://www.fiap.com.br/).
-* 🚀 Focused on computational logic, full-stack development, cloud computing, and systems architecture.
-* 💡 Passionate about turning concepts into scalable, real-world technology solutions.
+- 🎓 Pursuing a Bachelor's Degree in **Software Engineering** at [FIAP](https://www.fiap.com.br/).
+- 🚀 Focused on solid software engineering, scalable systems architecture, and full-stack development.
+- 💡 Passionate about turning complex challenges into efficient, high-impact technology solutions.
 
 ### 🛠️ Tech Stack & Skills (FIAP Curriculum)
 | Category | Technologies |
